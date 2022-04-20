@@ -7,4 +7,6 @@ SO THAT I can manage my time effectively
 
 ```
 
-GitHub: 
+GitHub: https://nkr-28.github.io/API-Work-Day-Scheduler/
+
+
